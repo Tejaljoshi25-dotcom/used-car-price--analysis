@@ -1,6 +1,12 @@
 # used-car-price--analysis
 Analysis and cleaning of a used car pricing dataset
-# Used Car Price Analysis & Data Cleaning
+
+## The Problem
+Determining the fair market value of a used car is inherently subjective and often lacks transparency. Sellers are frequently unaware of current market trends, while buyers often face the apprehension of overpaying. To resolve this ambiguity and minimize information asymmetry, there is a critical need for a data-driven approach that provides:
+
+- Transparency: Suggesting fair and realistic prices for sellers.
+- Efficiency: Saving time for buyers by providing instant, reliable estimations.
+- Accuracy: Analyzing historical data and key features (such as brand, model, vehicle age, and mileage) to predict a precise price point based on actual market patterns.
 
 ## 📌 Project Overview
 This project focuses on resolving the **"Information Asymmetry"** in the used car market (often referred to as the 'Lemon Market' in economics). Buyers frequently struggle to understand a vehicle's actual condition and fair market value. 
@@ -30,3 +36,10 @@ Based on the analysis of the data and supporting research, car prices are not dr
 ## 🚀 Tech Stack Used
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+## AUTHOR
+
+Tejal Joshi
+
+## Linkedin
+https://www.linkedin.com/feed/
