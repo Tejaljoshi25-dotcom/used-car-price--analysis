@@ -20,7 +20,7 @@ The objective of this project is to clean a raw dataset of used cars and analyze
 * **`README.md`**: Project documentation (this file).
 
 ## 🛠️ Data Cleaning & Processing Steps
-The raw data underwent a rigorous cleaning pipeline to ensure reliability for future modeling:
+The raw data underwent a rigorous cleaning pipeline to ensure reliability for future modeling
 1. **Handling Missing Values:** Identified and treated null values across critical features.
 2. **Data Correction:** Fixed incorrect data entries and standardized column formatting.
 3. **Outlier Removal:** Filtered out unrealistic anomalies in price, age, and mileage to avoid skewed analysis.
