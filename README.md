@@ -40,6 +40,6 @@ Based on the analysis of the data and supporting research, car prices are not dr
 ## AUTHOR
 
 Tejal Joshi
-
+DATA Scientist and Researcher
 ## Linkedin
 https://www.linkedin.com/feed/
